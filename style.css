@@ -58,10 +58,34 @@ h1{
 #contact{
     background-image: url(images/bg.png);
     width: 60%;
-    margin: 0 auto;
     background-size: cover;
+    margin: auto;
+    padding-bottom: 0;
+    height: 250px;
+    margin-bottom: 50px;
+    border-radius: 25px;
     }
-#contactme{
-     width: 40px;
+    #text-content{
+        padding-top: 110px;
+        width: 90%;
+    }
 
-   
+#text-content h2{
+    display: inline;
+    font-weight: 800;
+    color:#fff
+    letter-spacing:2px;
+    padding-left:80px;
+}
+
+#text-content a{
+    float:right;
+    text-decoration: none;
+    background-color:tomato;
+    padding: 10px 10px;
+    border-radius: 5px;
+    
+}
+#footer{
+    text-align: center;
+}
