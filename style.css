@@ -1,5 +1,6 @@
 body{
     font-family: 'Bebas Neue', cursive;
+    margin: 0;
 }
 h1{
     font-size: 40px;
@@ -36,6 +37,8 @@ h1{
    
     display: inline-block;
     text-align: center;
+    background-color: rgb(226, 219, 219);
+    height: 300px;
 }
     .project{
             width: 25%;
@@ -49,4 +52,11 @@ h1{
     .project img{
         width: 100%;
     }
-    
+    section{
+        padding-bottom: 150px;
+    }
+#contactme{
+    background-image: url(images/bg.png);
+   display: inline-block;
+
+}
