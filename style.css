@@ -1,0 +1,21 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 80;
+}
+ #color-highlight1{
+    color:#363958;
+}
+#color-highlight2{
+    color:salmon;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    padding: 2px;
+}
+.half-width img{
+    width: 100;
+}
