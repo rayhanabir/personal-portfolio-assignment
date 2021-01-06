@@ -44,7 +44,7 @@ h1{
             width: 25%;
             float: left;
             margin-left: 7%;
-            padding:4px;
+            padding:3px;
             box-shadow: 20px 20px 40px gray;
             border-radius: 10px;
             text-align: center;
@@ -55,8 +55,13 @@ h1{
     section{
         padding-bottom: 150px;
     }
-#contactme{
+#contact{
     background-image: url(images/bg.png);
-   display: inline-block;
+    width: 60%;
+    margin: 0 auto;
+    background-size: cover;
+    }
+#contactme{
+     width: 40px;
 
-}
+   
